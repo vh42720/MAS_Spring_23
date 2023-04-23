@@ -1,0 +1,14 @@
+# test file
+/test.R
+
+# .idea
+/.idea
+./venv
+
+# ignore config
+/config/
+/test/
+/data
+/backup
+__pycache__/
+
